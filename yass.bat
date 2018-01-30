@@ -1,4 +1,5 @@
-@echo on
-timeout 2
+@echo off
+echo Initializing fun
+timeout 3
 type yass.txt
 pause
